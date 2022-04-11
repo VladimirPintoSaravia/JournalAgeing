@@ -1,6 +1,6 @@
 # **Socioeconomic inequalities in health among Indigenous older adults in Bolivia in times of COVID-19**
 
-## In this repository you can find the code I used in the development of the paper which is under review for acceptance.
+## You can find the code I used in the development of the paper which is under review for acceptance.
 
 **Author -** Vladimir Pinto Saravia
 
