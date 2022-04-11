@@ -2,9 +2,9 @@
 
 ## In this repository you can find the code I used in the development of the paper which is under review for acceptance.
 
-**Author** Vladimir Pinto Saravia
+**Author -** Vladimir Pinto Saravia
 
-**E-mail** vladimir_pinto@hotmail.com
+**E-mail -** vladimir_pinto@hotmail.com
 
 **Background**
 
@@ -16,7 +16,7 @@ Older adults and Indigenous peoples are placed more vulnerable to the effects of
 
 **Methods**
 
-Using the 2020 Household Survey I performed bivariate analysis to establish trends.
+Using the [2020 Household Survey](http://anda.ine.gob.bo/index.php/catalog/88/get-microdata) I performed bivariate analysis to establish trends.
 Subsequently using logistic regressions to establish the risks to self-reported COVID-19 symptoms.
 A fully interacted model is analysed by ethnicity.
 
