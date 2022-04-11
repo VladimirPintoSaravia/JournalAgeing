@@ -6,6 +6,8 @@
 
 **E-mail -** vladimir_pinto@hotmail.com
 
+**Stata version -** 17
+
 **Background**
 
 Older adults and Indigenous peoples are placed more vulnerable to the effects of the COVID-19 pandemic.
