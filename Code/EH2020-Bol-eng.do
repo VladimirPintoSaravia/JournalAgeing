@@ -18,6 +18,9 @@ Analytical sample n=16 910
 Date created:Jan/14/2022
 Last modification: Apr/10/2022
 
+License:	El Colegio de México
+Ado(s):	chowtest
+
 Database site: http://anda.ine.gob.bo/index.php/catalog/88
 *******************************************************************************/
 
