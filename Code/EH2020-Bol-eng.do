@@ -37,7 +37,7 @@ use "C:\Users\Vladimir Pinto\OneDrive - El Colegio de México A.C\Journal of pop
 ****************Bolivia 2020********************
 ************************************************
 clear all
-use "C:\Users\Vladimir Pinto\Documents\Base de datos\Bolivia\EH Bolivia\2020\EH2020_Persona_Vivienda.dta", clear
+use "C:\Users\Vladimir Pinto\OneDrive - El Colegio de México A.C\Journal of population ageing\EH2020_Persona.dta", clear
 set more off
 
 *Adultos mayores en el hogar
